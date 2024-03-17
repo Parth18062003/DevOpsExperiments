@@ -1,7 +1,7 @@
 @echo off
 
 rem 
-set HTML_FILE=D:\SEM-6\DevOps\JenkinsTest\index.html
+set HTML_FILE=C:\ProgramData\Jenkins\.jenkins\workspace\TestAndDeploy\JenkinsTest\index.html
 
 rem
 if not exist "%HTML_FILE%" (
